@@ -1,0 +1,70 @@
+{
+    "film":[
+        {
+            "id":1,
+            "name":"پایتخت",
+            "year":1390,
+            "image":"./src/image/gonahfereshte.webp"
+            
+        },
+        {
+            "id":2,
+            "name":"عقرب",
+            "year":1395,
+            "image":"./src/image/aqrab.webp"            
+        },
+        
+        {
+            "id":3,
+            "name":"ملکه گدایان",
+            "year":1400,
+            "image":"./src/image/gedayan.webp"            
+        },
+        {
+            "id":4,
+            "name":"شاهرگ",
+            "year":1402,
+            "image":"./src/image/shahrag.webp"            
+        }, 
+        {
+            "id":5,
+            "name":"بالشها",
+            "year":1397,
+            "image":"./src/image/baleshha.webp"            
+        }, 
+        {
+            "id":6,
+            "name":"شاهرگ",
+            "year":1380,
+            "image":"./src/image/shahrag.webp"            
+        }
+        , 
+        {
+            "id":7,
+            "name":"حماسه ره شیلر",
+            "year":1385,
+            "image":"./src/image/shiler.webp"            
+        }
+        , 
+        {
+            "id":8,
+            "name":"دل",
+            "year":1399,
+            "image":"./src/image/del.webp"            
+        }
+        , 
+        {
+            "id":9,
+            "name":"شب های مافیا2",
+            "year":1399,
+            "image":"./src/image/maf2.webp"            
+        }
+        , 
+        {
+            "id":10,
+            "name":"مردم معمولی",
+            "year":1400,
+            "image":"./src/image/mardom.webp"            
+        }
+    ]
+}
